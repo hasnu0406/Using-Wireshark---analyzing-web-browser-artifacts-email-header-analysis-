@@ -55,7 +55,10 @@ flowchart TD
 ```
 
 ## OUTPUT:
-Captured Web Activity and Email Header Information
+<img width="1548" height="744" alt="H EXP 10 P1" src="https://github.com/user-attachments/assets/7fc341de-5c5c-493c-af42-92e27cd03cfa" />
+<img width="1548" height="744" alt="H EXP 10 P2" src="https://github.com/user-attachments/assets/d512aa13-f6b6-4135-9c5f-2098dcc8b7e4" />
+<img width="1548" height="744" alt="H EXP 10 P3" src="https://github.com/user-attachments/assets/9bba4a09-d69c-4735-87bf-082eacabec22" />
+<img width="1548" height="744" alt="H EXP 10 P4" src="https://github.com/user-attachments/assets/ef23b6b9-1e1b-4ce3-b66e-f1e613ca78b8" />
 
 ## RESULT:
 Web browser artifacts and email headers were successfully analyzed using Wireshark.
